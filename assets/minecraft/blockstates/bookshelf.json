@@ -1,0 +1,15 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+	"variants": {
+        "": [
+            { "model": "block/wood/bookshelf/0", "weight": 8 },
+			{ "model": "block/wood/bookshelf/1", "weight": 1 },
+			{ "model": "block/wood/bookshelf/2", "weight": 2 },
+			{ "model": "block/wood/bookshelf/3", "weight": 2 },
+			{ "model": "block/wood/bookshelf/4", "weight": 2 },
+			{ "model": "block/wood/bookshelf/5", "weight": 2 }
+        ]
+    }
+}
