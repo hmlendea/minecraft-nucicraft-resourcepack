@@ -12,6 +12,7 @@ Minecraft resourcepack fot the NuciCraft personal server
    - Ladders
    - Sugar Cane _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-sugar-cane))_
  - Brighter water colour
+ - Grassier Grass Block sides
  - Invisible armour pieces
  - Textures from older MC versions
    - Obsidian
