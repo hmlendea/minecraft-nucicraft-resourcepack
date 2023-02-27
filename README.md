@@ -14,6 +14,8 @@ Minecraft resourcepack fot the NuciCraft personal server
    - Brighter water colour
    - Grassier Grass Block sides
    - Polished Andesite recoloured to better fit Stone Bricks
+ - Tweaked names
+   - Renamed Crimson and Warped items from fungi to wood
  - Textures from older MC versions
    - Obsidian
  - Textures for custom datapack items
