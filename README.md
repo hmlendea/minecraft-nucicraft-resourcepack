@@ -14,6 +14,7 @@ Minecraft resourcepack fot the NuciCraft personal server
    - Brighter water colour
    - Grassier Grass Block sides
    - Polished Andesite recoloured to better fit Stone Bricks
+   - Unlit Redstone Ore _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/))_
  - Textures from older MC versions
    - Obsidian
  - Textures for custom datapack items
