@@ -15,6 +15,8 @@ Minecraft resourcepack fot the NuciCraft personal server
    - Grassier Grass Block sides
    - Polished Andesite recoloured to better fit Stone Bricks
    - Unlit Redstone Ore _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/))_
+ - Tweaked names
+   - Renamed Crimson and Warped items from fungi to wood
  - Textures from older MC versions
    - Obsidian
  - Textures for custom datapack items
