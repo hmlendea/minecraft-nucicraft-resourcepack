@@ -13,6 +13,7 @@ Minecraft resourcepack fot the NuciCraft personal server
  - Tweaked textures
    - Brighter water colour
    - Grassier Grass Block sides
+   - Directional Dispensers, Droppers, Hoppers and Observers _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/))_
    - Diminishing Tools _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/))_
    - Polished Andesite recoloured to better fit Stone Bricks
    - Sticky Piston sides _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/))_
