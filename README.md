@@ -9,16 +9,17 @@ Minecraft resourcepack fot the NuciCraft personal server
    - Doors and Trapdoors v1.1 _([by Ecorn](https://planetminecraft.com/texture-pack/3d-doors-amp-trapdoors))_
    - Iron Bars _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-iron-bars))_
    - Ladders
+   - Rails _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
    - Sugar Cane _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-sugar-cane))_
  - Tweaked textures
    - Brighter water colour
    - Grassier Grass Block sides
-   - Directional Dispensers, Droppers, Hoppers and Observers _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/))_
-   - Diminishing Tools _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/))_
+   - Directional Dispensers, Droppers, Hoppers and Observers _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+   - Diminishing Tools _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
    - Polished Andesite recoloured to better fit Stone Bricks
-   - Sticky Piston sides _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/))_
-   - Unlit Redstone Ore _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/))_
-   - Unobtrusive Enchantment glint _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/))_
+   - Sticky Piston sides _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+   - Unlit Redstone Ore _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+   - Unobtrusive Enchantment glint _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
  - Tweaked names
    - Renamed Crimson and Warped items from fungi to wood
  - Textures from older MC versions
