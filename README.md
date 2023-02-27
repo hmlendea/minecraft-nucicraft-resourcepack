@@ -15,6 +15,7 @@ Minecraft resourcepack fot the NuciCraft personal server
    - Grassier Grass Block sides
    - Diminishing Tools _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/))_
    - Polished Andesite recoloured to better fit Stone Bricks
+   - Sticky Piston sides _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/))_
    - Unlit Redstone Ore _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/))_
  - Tweaked names
    - Renamed Crimson and Warped items from fungi to wood
