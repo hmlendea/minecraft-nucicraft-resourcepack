@@ -27,3 +27,5 @@ Minecraft resourcepack fot the NuciCraft personal server
  - Textures for custom datapack items
    - [magic-compass](https://github.com/hmlendea/mc-datapack-magic_compass)
  - Invisible armour pieces
+ - GUI
+   - HD Font
