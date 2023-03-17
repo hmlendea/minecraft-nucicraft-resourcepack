@@ -29,3 +29,4 @@ Minecraft resourcepack fot the NuciCraft personal server
  - Invisible armour pieces
  - GUI
    - HD Font
+   - Rainbow Experience Bar _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
