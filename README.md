@@ -26,8 +26,9 @@ Minecraft resourcepack fot the NuciCraft personal server
    - [magic-compass](https://github.com/hmlendea/mc-datapack-magic_compass)
  - Invisible armour pieces
  - Environment
-   - Brighter water colour
    - 3D Sun and Moon _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+   - Brighter Water Colour
+   - Unobtrusive Rain _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
  - GUI
    - Diminishing Tools _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
    - HD Font
