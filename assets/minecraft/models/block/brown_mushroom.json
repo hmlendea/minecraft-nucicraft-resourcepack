@@ -1,0 +1,32 @@
+{
+	"parent": "minecraft:block/cross",
+	"textures": {
+		"outside": "minecraft:block/brown_mushroom",
+		"inside": "minecraft:block/mushroom_block_inside",
+		"particle": "#outside"
+	},
+    "elements": [
+        {   "from": [ 5, 4, 5 ],
+            "to": [ 11, 7, 11 ],
+            "faces": {
+                "down":  { "texture": "#inside" },
+                "up":    { "uv": [ 5, 6, 11, 12 ], "texture": "#outside" },
+                "north": { "texture": "#outside" },
+                "south": { "texture": "#outside" },
+                "west":  { "texture": "#outside" },
+                "east":  { "texture": "#outside" }
+            }
+        },
+        {
+            "from": [ 7, 0, 7 ],
+            "to": [ 9, 4, 9 ],
+            "faces": {
+                "down":  { "texture": "#inside", "cullface": "down" },
+                "north": { "texture": "#outside" },
+                "south": { "texture": "#outside" },
+                "west":  { "texture": "#outside" },
+                "east":  { "texture": "#outside" }
+            }
+        }
+    ]
+}

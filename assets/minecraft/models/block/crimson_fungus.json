@@ -1,0 +1,42 @@
+{
+	"parent": "minecraft:block/cross",
+	"textures": {
+		"outside": "minecraft:block/crimson_fungus",
+		"inside": "minecraft:block/fungus_block_inside",
+		"particle": "#outside"
+	},
+    "elements": [
+        {   "from": [ 5, 8, 5 ],
+            "to": [ 11, 12, 11 ],
+            "faces": {
+                "up":    { "uv": [ 5, 3, 11, 9 ], "texture": "#outside" },
+                "north": { "texture": "#outside" },
+                "south": { "texture": "#outside" },
+                "west":  { "texture": "#outside" },
+                "east":  { "texture": "#outside" }
+            }
+        },
+		{   "from": [ 4, 5, 4 ],
+            "to": [ 12, 8, 12 ],
+            "faces": {
+                "down":  { "texture": "#inside" },
+                "up":    { "uv": [ 4, 3, 12, 11 ], "texture": "#outside" },
+                "north": { "texture": "#outside" },
+                "south": { "texture": "#outside" },
+                "west":  { "texture": "#outside" },
+                "east":  { "texture": "#outside" }
+            }
+        },
+        {
+            "from": [ 7, 0, 7 ],
+            "to": [ 9, 5, 9 ],
+            "faces": {
+                "down":  { "texture": "#inside", "cullface": "down" },
+                "north": { "texture": "#outside" },
+                "south": { "texture": "#outside" },
+                "west":  { "texture": "#outside" },
+                "east":  { "texture": "#outside" }
+            }
+        }
+    ]
+}	
