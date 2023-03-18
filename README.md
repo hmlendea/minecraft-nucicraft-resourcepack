@@ -21,6 +21,7 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Sticky Piston sides _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Unlit Redstone Ore _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Variations
+        - Grass Block _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Birch Log _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
 - Tweaked names
     - Renamed Crimson and Warped items from fungi to wood
