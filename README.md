@@ -4,14 +4,17 @@ Minecraft resourcepack fot the NuciCraft personal server
 
 # Features
 
-- 3D blocks
-    - Chains _([by Saplistic](https://planetminecraft.com/texture-pack/3d-chains))_
-    - Doors and Trapdoors v1.1 _([by Ecorn](https://planetminecraft.com/texture-pack/3d-doors-amp-trapdoors))_
-    - Glow Lichen _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
-    - Iron Bars _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-iron-bars))_
-    - Ladders
-    - Rails _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
-    - Sugar Cane _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-sugar-cane))_
+- 3D
+    - Blocks
+        - Chains _([by Saplistic](https://planetminecraft.com/texture-pack/3d-chains))_
+        - Doors and Trapdoors v1.1 _([by Ecorn](https://planetminecraft.com/texture-pack/3d-doors-amp-trapdoors))_
+        - Glow Lichen _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+        - Iron Bars _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-iron-bars))_
+        - Ladders
+        - Rails _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+        - Sugar Cane _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-sugar-cane))_
+    - Items
+        - Torches and Lanterns v1.3.4 _([by D_Dimensional](https://planetminecraft.com/texture-pack/3d-hand-torch))_
 - Textures
     - Tweakes
         - Grassier Grass Block sides
