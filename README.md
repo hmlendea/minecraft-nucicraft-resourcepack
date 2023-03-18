@@ -24,6 +24,7 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Sticky Piston sides _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Unlit Redstone Ore _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Variations
+        - Cobblestone _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Grass Block _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Birch Log _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
 - Tweaked names
