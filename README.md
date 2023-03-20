@@ -12,6 +12,7 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Iron Bars _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-iron-bars))_
         - Ladders
         - Mushrooms v1.2 _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-mushrooms))_
+        - Pointed Dripstone v1.0 _([by MCjossic](https://www.curseforge.com/minecraft/texture-packs/three-dimensional-pointed-dripstone))_
         - Rails _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Sugar Cane _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-sugar-cane))_
     - Items
