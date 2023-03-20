@@ -52,3 +52,5 @@ Minecraft resourcepack fot the NuciCraft personal server
     - HD Font
     - Rainbow Experience Bar _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Unobtrusive Enchantment glint _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+- Sounds
+    - Retro Damage Sound (from older Minecraft versions)
