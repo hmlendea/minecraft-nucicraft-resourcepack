@@ -6,13 +6,14 @@ Minecraft resourcepack fot the NuciCraft personal server
 
 - 3D
     - Blocks
+        - Amethyst Crystals v1.0 _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-amethyst-crystals))_
         - Chains _([by Saplistic](https://planetminecraft.com/texture-pack/3d-chains))_
         - Doors and Trapdoors v1.1 _([by Ecorn](https://planetminecraft.com/texture-pack/3d-doors-amp-trapdoors))_
         - Glow Lichen _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Iron Bars _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-iron-bars))_
         - Ladders
         - Mushrooms v1.2 _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-mushrooms))_
-        - Pointed Dripstone v1.0 _([by MCjossic](https://www.curseforge.com/minecraft/texture-packs/three-dimensional-pointed-dripstone))_
+        - Pointed Dripstone v1.0 _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-pointed-dripstone))_
         - Rails _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Sugar Cane _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-sugar-cane))_
     - Items
