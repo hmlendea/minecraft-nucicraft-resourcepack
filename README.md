@@ -15,8 +15,8 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Rails _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Textures
         - Tweakes
-            - Grassier Grass Block sides
             - Directional Dispensers, Droppers, Hoppers and Observers _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+            - Lower sides for: Crimson & Warped Nylium, Dirt Path, Grass Block, Mycelium, Podzol, Snow
             - Polished Andesite recoloured to better fit Stone Bricks
             - Retro Obsidian (from older Minecraft versions)
             - Sticky Piston sides _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
