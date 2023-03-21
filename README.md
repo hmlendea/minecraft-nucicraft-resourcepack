@@ -43,6 +43,7 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Vines _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Others
         - 3D Breaking Animation _([by DartCat25](https://github.com/DartCat25/resourcepacks/tree/main/3d-breaking))_
+        - 3D Redstone Dust _([by DudeAbide](https://planetminecraft.com/texture-pack/3d-clean-redstone-dust))_
         - 3D Sun and Moon _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Brighter Water Colour
         - Twinkling Stars _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_

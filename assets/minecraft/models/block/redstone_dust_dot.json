@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"2": "block/redstone_dust_dot"
+	},
+	"elements": [
+		{
+			"name": "redstone_dust_dot_0",
+			"from": [5, 0, 5],
+			"to": [11, 1, 11],
+			"faces": {
+				"north": {"uv": [11, 5, 5, 6], "texture": "#2", "tintindex": 0},
+				"east": {"uv": [10, 5, 11, 11], "rotation": 90, "texture": "#2", "tintindex": 0},
+				"south": {"uv": [5, 10, 11, 11], "texture": "#2", "tintindex": 0},
+				"west": {"uv": [5, 5, 6, 11], "rotation": 270, "texture": "#2", "tintindex": 0},
+				"up": {"uv": [5, 5, 11, 11], "texture": "#2", "tintindex": 0}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "redstone_dust_dot",
+			"origin": [8, 8, 8],
+			"children": [0]
+		}
+	]
+}
