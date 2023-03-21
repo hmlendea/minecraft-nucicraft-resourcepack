@@ -41,6 +41,7 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Sugar Cane v1.1 _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-sugar-cane))_
             - Vines _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Others
+        - 3D Breaking Animation _([by DartCat25](https://github.com/DartCat25/resourcepacks/tree/main/3d-breaking))_
         - 3D Sun and Moon _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Brighter Water Colour
         - Twinkling Stars _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
