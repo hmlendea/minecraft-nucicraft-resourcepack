@@ -43,6 +43,7 @@ Minecraft resourcepack fot the NuciCraft personal server
     - Others
         - 3D Sun and Moon _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Brighter Water Colour
+        - Twinkling Stars _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Unobtrusive Rain _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
 - Tweaked names
     - Renamed Crimson and Warped items from fungi to wood
