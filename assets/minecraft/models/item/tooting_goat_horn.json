@@ -1,0 +1,83 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"layer0": "item/goat_horn"
+	},
+	"elements": [
+		{
+			"from": [7, 3, 5],
+			"to": [9, 5, 12],
+			"faces": {
+				"north": {"uv": [0, 9, 2, 11], "texture": "#layer0"},
+				"east": {"uv": [9, 9, 2, 11], "texture": "#layer0"},
+				"south": {"uv": [9, 9, 11, 11], "texture": "#layer0"},
+				"west": {"uv": [2, 9, 9, 11], "texture": "#layer0"},
+				"up": {"uv": [2, 9, 9, 11], "rotation": 90, "texture": "#layer0"},
+				"down": {"uv": [2, 9, 9, 11], "rotation": 270, "texture": "#layer0"}
+			}
+		},
+		{
+			"from": [6, 5, 3],
+			"to": [10, 10, 7],
+			"faces": {
+				"north": {"uv": [0, 4, 4, 9], "texture": "#layer0"},
+				"east": {"uv": [0, 4, 4, 9], "texture": "#layer0"},
+				"south": {"uv": [0, 4, 4, 9], "texture": "#layer0"},
+				"west": {"uv": [0, 4, 4, 9], "texture": "#layer0"},
+				"up": {"uv": [0, 0, 4, 4], "texture": "#layer0"},
+				"down": {"uv": [4, 0, 8, 4], "texture": "#layer0"}
+			}
+		},
+		{
+			"from": [6.5, 4, 4],
+			"to": [9.5, 6, 8],
+			"faces": {
+				"north": {"uv": [4, 14, 7, 16], "texture": "#layer0"},
+				"east": {"uv": [4, 14, 0, 16], "texture": "#layer0"},
+				"south": {"uv": [4, 14, 7, 16], "texture": "#layer0"},
+				"west": {"uv": [0, 14, 4, 16], "texture": "#layer0"},
+				"up": {"uv": [0, 11, 4, 14], "rotation": 90, "texture": "#layer0"},
+				"down": {"uv": [0, 11, 4, 14], "rotation": 270, "texture": "#layer0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -30, 0],
+			"translation": [0, 5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -30, 0],
+			"translation": [0, 5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [12, 9, 0],
+			"translation": [-0.5, -1.25, -8.5]
+		},
+		"ground": {
+			"translation": [0, 2.75, 0]
+		},
+		"gui": {
+			"rotation": [21, 57, 0],
+			"translation": [1, 1.25, 0],
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"head": {
+			"rotation": [0, 0, -180],
+			"translation": [-4.5, 8.5, 1.5]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 1.5, -1.5],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}

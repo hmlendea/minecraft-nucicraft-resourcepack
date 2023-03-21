@@ -28,6 +28,7 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Stone, End Stone, Unpolished Stones _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
 - Items
     - 3D Models
+        - Goat Horn _([by JMHMirror](https://planetminecraft.com/texture-pack/3d-goat-horn))_
         - Torches and Lanterns v1.3.4 _([by D_Dimensional](https://planetminecraft.com/texture-pack/3d-hand-torch))_
     - Textures
         - Brown Leather _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
