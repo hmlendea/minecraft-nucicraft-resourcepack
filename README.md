@@ -26,6 +26,7 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Cobblestone _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Grass Block _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Gravel _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+            - Moss _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Stone, End Stone, Unpolished Stones _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
 - Items
     - 3D Models
