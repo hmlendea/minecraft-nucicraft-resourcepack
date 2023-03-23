@@ -25,6 +25,7 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Birch Log _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Cobblestone _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Grass Block _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+            - Gravel _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Stone, End Stone, Unpolished Stones _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
 - Items
     - 3D Models
