@@ -35,6 +35,7 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Brown Leather _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Diminishing Tools _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Invisible armour pieces
+        - Splash Bottle o' Enchanting _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Replacements
         - Fried Potatoes instead of Baked Potato
 - Environment
