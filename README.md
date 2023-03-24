@@ -28,6 +28,7 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Dirt _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Grass Block _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Gravel _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+            - Planks _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Moss _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Ore: Coal, Diamond, Gold, Iron, Lapis _(only the Stone variants)_
             - Stone, End Stone, Unpolished Stones _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
