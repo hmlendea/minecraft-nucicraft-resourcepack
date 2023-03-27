@@ -50,6 +50,7 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Cactus (Classic) _([by Zhing Za](https://planetminecraft.com/texture-pack/3d-classic-cacti))_
             - Glow Lichen _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Mushrooms v1.2 _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-mushrooms))_
+            - Shield HD Banner Pattern _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Sugar Cane v1.1 _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-sugar-cane))_
             - Vines _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Others
