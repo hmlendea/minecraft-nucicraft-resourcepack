@@ -67,6 +67,7 @@ Minecraft resourcepack fot the NuciCraft personal server
     - [magic-compass](https://github.com/hmlendea/mc-datapack-magic_compass)
 - GUI
     - HD Font
+    - Lower Shield when held _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Rainbow Experience Bar _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Unobtrusive Enchantment glint _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
 - Sounds
