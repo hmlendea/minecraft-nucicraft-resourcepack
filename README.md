@@ -62,6 +62,7 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Unobtrusive Rain _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
 - Tweaked names
     - Renamed Crimson and Warped items from fungi to wood
+    - Renamed Mangrove Propagule to Mangrove Sapling
 - Textures for custom datapack items
     - [magic-compass](https://github.com/hmlendea/mc-datapack-magic_compass)
 - GUI
