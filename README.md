@@ -68,6 +68,7 @@ Minecraft resourcepack fot the NuciCraft personal server
 - Textures for custom datapack items
     - [magic-compass](https://github.com/hmlendea/mc-datapack-magic_compass)
 - GUI
+    - Coloured Ping Bars _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - HD Font
     - Lower Shield when held _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Rainbow Experience Bar _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
