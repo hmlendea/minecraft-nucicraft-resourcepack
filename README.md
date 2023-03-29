@@ -46,6 +46,8 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Splash Bottle o' Enchanting _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Replacements
         - Fried Potatoes instead of Baked Potato
+    - Variations
+        - Dyes _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
 - Environment
     - Plants
         - 3D Models
