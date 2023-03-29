@@ -40,6 +40,7 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Stone, End Stone, Unpolished Stones _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Names
         - Renamed Crimson and Warped items from fungi to wood
+        - Renamed _Magma Block_ to _Magma_
         - Renamed various blocks, for the Romanian language
 - Items
     - 3D Models
@@ -53,7 +54,7 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Invisible armour pieces
         - Splash Bottle o' Enchanting _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Names
-        - Renamed _Cookie_ to _iscuit_
+        - Renamed _Cookie_ to _Biscuit_
         - Renamed _Glistering Melon Slice_ to _Golden Melon Slice_
         - Renamed _Mangrove Propagule_ to _Mangrove Sapling_
         - Renamed various items, for the Romanian language
