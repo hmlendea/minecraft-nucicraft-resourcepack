@@ -40,6 +40,7 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Stone, End Stone, Unpolished Stones _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Names
         - Renamed Crimson and Warped items from Fungi to Wood
+        - Renamed various blocks, for the Romanian language
 - Items
     - 3D Models
         - Buckets _([by Ivango](https://planetminecraft.com/texture-pack/3d-bucket))_
@@ -54,6 +55,7 @@ Minecraft resourcepack fot the NuciCraft personal server
     - Names
         - Renamed Cookie to Biscuit
         - Renamed Mangrove Propagule to Mangrove Sapling
+        - Renamed various items, for the Romanian language
     - Replacements
         - Fried Potatoes instead of Baked Potato
     - Variations
