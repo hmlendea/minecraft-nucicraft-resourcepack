@@ -39,7 +39,7 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Ore: Coal, Diamond, Gold, Iron, Lapis _(only the Stone variants)_
             - Stone, End Stone, Unpolished Stones _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Names
-        - Renamed Crimson and Warped items from Fungi to Wood
+        - Renamed Crimson and Warped items from fungi to wood
         - Renamed various blocks, for the Romanian language
 - Items
     - 3D Models
@@ -53,8 +53,9 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Invisible armour pieces
         - Splash Bottle o' Enchanting _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Names
-        - Renamed Cookie to Biscuit
-        - Renamed Mangrove Propagule to Mangrove Sapling
+        - Renamed _Cookie_ to _iscuit_
+        - Renamed _Glistering Melon Slice_ to _Golden Melon Slice_
+        - Renamed _Mangrove Propagule_ to _Mangrove Sapling_
         - Renamed various items, for the Romanian language
     - Replacements
         - Fried Potatoes instead of Baked Potato
