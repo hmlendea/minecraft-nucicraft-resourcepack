@@ -28,6 +28,7 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Variations
             - Birch Log _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Bookshelf _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+            - Bricks _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Cobblestone _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Dirt _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Grass Block _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
