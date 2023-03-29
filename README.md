@@ -38,6 +38,8 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Moss _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Ore: Coal, Diamond, Gold, Iron, Lapis _(only the Stone variants)_
             - Stone, End Stone, Unpolished Stones _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+    - Names
+        - Renamed Crimson and Warped items from Fungi to Wood
 - Items
     - 3D Models
         - Buckets _([by Ivango](https://planetminecraft.com/texture-pack/3d-bucket))_
@@ -49,6 +51,9 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Diminishing Tools _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Invisible armour pieces
         - Splash Bottle o' Enchanting _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+    - Names
+        - Renamed Cookie to Biscuit
+        - Renamed Mangrove Propagule to Mangrove Sapling
     - Replacements
         - Fried Potatoes instead of Baked Potato
     - Variations
@@ -70,9 +75,6 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Colourful Enchanting Table Particles _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Twinkling Stars _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Unobtrusive Rain _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
-- Tweaked names
-    - Renamed Crimson and Warped items from fungi to wood
-    - Renamed Mangrove Propagule to Mangrove Sapling
 - Textures for custom datapack items
     - [magic-compass](https://github.com/hmlendea/mc-datapack-magic_compass)
 - GUI
