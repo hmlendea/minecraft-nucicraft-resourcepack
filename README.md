@@ -5,16 +5,19 @@ Minecraft resourcepack fot the NuciCraft personal server
 # Features
 
 - Blocks
-    - 3D Models
-        - Amethyst Crystals v1.0 _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-amethyst-crystals))_
-        - Chains _([by Saplistic](https://planetminecraft.com/texture-pack/3d-chains))_
-        - Doors and Trapdoors v1.1 _([by Ecorn](https://planetminecraft.com/texture-pack/3d-doors-amp-trapdoors))_
-        - Iron Bars _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-iron-bars))_
-        - Ladders
-        - Pointed Dripstone v1.0 _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-pointed-dripstone))_
-        - Rails _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+    - Models
+        - 3D
+            - Amethyst Crystals v1.0 _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-amethyst-crystals))_
+            - Chains _([by Saplistic](https://planetminecraft.com/texture-pack/3d-chains))_
+            - Doors and Trapdoors v1.1 _([by Ecorn](https://planetminecraft.com/texture-pack/3d-doors-amp-trapdoors))_
+            - Iron Bars _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-iron-bars))_
+            - Ladders
+            - Pointed Dripstone v1.0 _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-pointed-dripstone))_
+            - Rails _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+        - Tweaks
+            - Ashless Campfires _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Textures
-        - Tweakes
+        - Tweaks
             - Directional Dispensers, Droppers, Hoppers and Observers _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Lower sides for: Crimson & Warped Nylium, Dirt Path, Grass Block, Mycelium, Podzol, Snow
             - Polished Andesite recoloured to better fit Stone Bricks
