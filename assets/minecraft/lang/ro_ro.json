@@ -33,5 +33,19 @@
     "block.minecraft.reinforced_deepslate": "Piatră Adâncă Armată",
     "block.minecraft.warped_fungus": "Puiet de Ciupercă Deformată",
     "item.minecraft.baked_potato": "Cartofi Prăjiți",
-    "item.minecraft.cookie": "Biscuite"
+    "item.minecraft.beef": "Vită Crudă",
+    "item.minecraft.chicken": "Pui Crud",
+    "item.minecraft.cooked_beef": "Vită Friptă",
+    "item.minecraft.cooked_chicken": "Pui Fript",
+    "item.minecraft.cooked_mutton": "Oaie Friptă",
+    "item.minecraft.cooked_porkchop": "Porc Fript",
+    "item.minecraft.cooked_rabbit": "Iepure Fript",
+    "item.minecraft.cookie": "Biscuite",
+    "item.minecraft.mutton": "Oaie Crudă",
+    "item.minecraft.porkchop": "Porc Crud",
+    "item.minecraft.rabbit_foot": "Labă de Iepure",
+    "item.minecraft.rabbit_hide": "Piele de Iepure",
+    "item.minecraft.rabbit_stew": "Tocană de Iepure",
+    "item.minecraft.rabbit": "Iepure Crud",
+    "item.minecraft.rotten_flesh": "Carne Putredă"
 }
