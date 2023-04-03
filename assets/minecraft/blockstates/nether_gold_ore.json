@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": [
+      { "model": "block/nether_gold_ore/block/8" },
+      { "model": "block/nether_gold_ore/block/9" },
+      { "model": "block/nether_gold_ore/block/10" }
+    ]
+  }
+}
