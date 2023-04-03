@@ -9,6 +9,7 @@
       { "model": "block/gold_ore/block/5" },
       { "model": "block/gold_ore/block/6" },
       { "model": "block/gold_ore/block/7" },
+      { "model": "block/gold_ore/block/8" },
       { "model": "block/gold_ore/block/9" }
     ]
   }
