@@ -36,7 +36,7 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Planks _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Red Mushroom _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Moss _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
-            - Ore: Coal _(Stone)_, Diamond _(Stone)_, Gold _(Nether, Stone)_, Iron _(Stone)_, Quartz _(Nether)_, Lapis _(Stone)_
+            - Ore: Coal _(Stone)_, Diamond _(Stone)_, Emerald _(Stone)_, Gold _(Nether, Stone)_, Iron _(Stone)_, Quartz _(Nether)_, Lapis _(Stone)_
             - Stone, End Stone, Unpolished Stones _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Names
         - Renamed Crimson and Warped items from fungi to wood
