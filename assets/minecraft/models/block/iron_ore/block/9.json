@@ -1,0 +1,7 @@
+{
+	"parent":"block/cube_all",
+	"textures":
+	{
+		"all":"block/variated/iron_ore/9"
+	}
+}
