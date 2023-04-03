@@ -1,27 +1,18 @@
 {
   "variants": {
     "": [
-      {
-        "model": "block/gold_ore/block/0"
-      },
-      {
-        "model": "block/gold_ore/block/1"
-      },
-      {
-        "model": "block/gold_ore/block/2"
-      },
-      {
-        "model": "block/gold_ore/block/3"
-      },
-      {
-        "model": "block/gold_ore/block/4"
-      },
-      {
-        "model": "block/gold_ore/block/5"
-      },
-      {
-        "model": "block/gold_ore/block/6"
-      }
+      { "model": "block/gold_ore/block/0" },
+      { "model": "block/gold_ore/block/1" },
+      { "model": "block/gold_ore/block/2" },
+      { "model": "block/gold_ore/block/3" },
+      { "model": "block/gold_ore/block/4" },
+      { "model": "block/gold_ore/block/5" },
+      { "model": "block/gold_ore/block/6" },
+      { "model": "block/gold_ore/block/7" },
+      { "model": "block/gold_ore/block/8" },
+      { "model": "block/gold_ore/block/9" },
+      { "model": "block/gold_ore/block/10" },
+      { "model": "block/gold_ore/block/12" }
     ]
   }
 }
