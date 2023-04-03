@@ -11,7 +11,8 @@
       { "model": "block/iron_ore/block/7" },
       { "model": "block/iron_ore/block/8" },
       { "model": "block/iron_ore/block/9" },
-      { "model": "block/iron_ore/block/10" }
+      { "model": "block/iron_ore/block/10" },
+      { "model": "block/iron_ore/block/12" }
     ]
   }
 }
