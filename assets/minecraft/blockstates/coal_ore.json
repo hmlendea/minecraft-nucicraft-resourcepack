@@ -21,6 +21,9 @@
       },
       {
         "model": "block/coal_ore/block/6"
+      },
+      {
+        "model": "block/coal_ore/block/7"
       }
     ]
   }

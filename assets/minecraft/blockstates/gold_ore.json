@@ -21,6 +21,9 @@
       },
       {
         "model": "block/gold_ore/block/6"
+      },
+      {
+        "model": "block/gold_ore/block/7"
       }
     ]
   }

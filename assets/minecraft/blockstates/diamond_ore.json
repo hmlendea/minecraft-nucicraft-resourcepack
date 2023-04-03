@@ -21,6 +21,9 @@
       },
       {
         "model": "block/diamond_ore/block/6"
+      },
+      {
+        "model": "block/diamond_ore/block/7"
       }
     ]
   }

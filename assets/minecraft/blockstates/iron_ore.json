@@ -21,6 +21,9 @@
       },
       {
         "model": "block/iron_ore/block/6"
+      },
+      {
+        "model": "block/iron_ore/block/7"
       }
     ]
   }
