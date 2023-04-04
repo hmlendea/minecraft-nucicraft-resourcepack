@@ -67,7 +67,8 @@ Minecraft resourcepack fot the NuciCraft personal server
 - Environment
     - Plants
         - 3D Models
-            - Cactus (Classic) _([by Zhing Za](https://planetminecraft.com/texture-pack/3d-classic-cacti))_
+            - Cactus (Classic) _([by Ensis](https://www.planetminecraft.com/texture-pack/better-crops-3d-16x))_
+            - Crops _(Beetroots and Carrots [by Zhing Za](https://planetminecraft.com/texture-pack/3d-classic-cacti))_
             - Glow Lichen _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Mushrooms v1.2 _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-mushrooms))_
             - Shield HD Banner Pattern _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
