@@ -16,6 +16,7 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Rails _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Tweaks
             - Ashless Campfires _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+            - Separated Double Slabs _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Textures
         - Tweaks
             - Directional Dispensers, Droppers, Hoppers and Observers _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
