@@ -73,6 +73,8 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Shield HD Banner Pattern _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Sugar Cane v1.1 _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-sugar-cane))_
             - Vines _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+    - Sounds
+        - Quieter Nether Portals _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Others
         - 3D Breaking Animation _([by DartCat25](https://github.com/DartCat25/resourcepacks/tree/main/3d-breaking))_
         - 3D Redstone Dust _([by DudeAbide](https://planetminecraft.com/texture-pack/3d-clean-redstone-dust))_
