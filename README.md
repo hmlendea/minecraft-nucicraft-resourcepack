@@ -79,7 +79,7 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Brighter Water Colour
         - Colourful Enchanting Table Particles _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Twinkling Stars _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
-        - Unobtrusive Rain _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+        - Unobtrusive Rain and Snow _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
 - Textures for custom datapack items
     - [magic-compass](https://github.com/hmlendea/mc-datapack-magic_compass)
 - GUI
