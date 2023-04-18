@@ -19,6 +19,7 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Separated Double Slabs _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Textures
         - Tweaks
+            - Centered Chiseled Stone Bricks
             - Directional Dispensers, Droppers, Hoppers and Observers _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Lower sides for: Crimson & Warped Nylium, Dirt Path, Grass Block, Mycelium, Podzol, Snow
             - Polished Andesite recoloured to better fit Stone Bricks
