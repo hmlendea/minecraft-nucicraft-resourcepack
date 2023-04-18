@@ -95,3 +95,5 @@ Minecraft resourcepack fot the NuciCraft personal server
     - Unobtrusive Enchantment glint _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
 - Sounds
     - Retro Damage Sound (from older Minecraft versions)
+- Performance
+    - Optimised Models  _([by Luracasmus](https://planetminecraft.com/texture-pack/modelculling))_
