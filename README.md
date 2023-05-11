@@ -65,6 +65,9 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Fried Potatoes instead of Baked Potato
     - Variations
         - Dyes _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+- Mobs
+    - Names
+        - Renamed _illagers_ to _[zaganians](https://micronations.wiki/wiki/Zaganians)_
 - Environment
     - Plants
         - 3D Models
