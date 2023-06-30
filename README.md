@@ -9,7 +9,7 @@ Minecraft resourcepack fot the NuciCraft personal server
         - 3D
             - Amethyst Crystals v1.0 _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-amethyst-crystals))_
             - Chains _([by Saplistic](https://planetminecraft.com/texture-pack/3d-chains))_
-            - Doors and Trapdoors v1.1 _([by Ecorn](https://planetminecraft.com/texture-pack/3d-doors-amp-trapdoors))_
+            - Doors and Trapdoors v1.2 _([by Ecorn](https://planetminecraft.com/texture-pack/3d-doors-amp-trapdoors))_
             - Iron Bars _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-iron-bars))_
             - Ladders
             - Pointed Dripstone v1.0 _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-pointed-dripstone))_
