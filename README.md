@@ -83,6 +83,7 @@ Minecraft resourcepack fot the NuciCraft personal server
         - 3D Sun and Moon _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Brighter Water Colour
         - Colourful Enchanting Table Particles _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+        - Cloud Fog Fix _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Twinkling Stars _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Unobtrusive Rain and Snow _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
 - Textures for custom datapack items
