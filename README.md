@@ -23,7 +23,6 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Directional Dispensers, Droppers, Hoppers and Observers _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Lower sides for: Crimson & Warped Nylium, Dirt Path, Grass Block, Mycelium, Podzol, Snow
             - Polished Andesite recoloured to better fit Stone Bricks
-            - Retro Obsidian (from older Minecraft versions)
             - Invisible Tripwire
             - Sticky Piston sides _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Unlit Redstone Ore _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
