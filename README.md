@@ -8,6 +8,7 @@ Minecraft resourcepack fot the NuciCraft personal server
     - Models
         - 3D
             - Amethyst Crystals v1.0 _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-amethyst-crystals))_
+            - Bookshelves _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Chains _([by Saplistic](https://planetminecraft.com/texture-pack/3d-chains))_
             - Doors and Trapdoors v1.2 _([by Ecorn](https://planetminecraft.com/texture-pack/3d-doors-amp-trapdoors))_
             - Iron Bars _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-iron-bars))_
@@ -28,7 +29,6 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Unlit Redstone Ore _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Variations
             - Birch Log _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
-            - Bookshelf _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Bricks _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Cobblestone _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Dirt _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
