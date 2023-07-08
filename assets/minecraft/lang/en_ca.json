@@ -1,4 +1,6 @@
 {
+    "block.minecraft.bamboo_block": "Bamboo Log",
+    "block.minecraft.bamboo_sapling": "Bamboo Sapling",
     "block.minecraft.blackstone_slab": "Blackstone Slab",
     "block.minecraft.blackstone_stairs": "Blackstone Stairs",
     "block.minecraft.blackstone_wall": "Blackstone Wall",
@@ -29,6 +31,7 @@
     "block.minecraft.polished_blackstone_stairs": "Polished Blackstone Stairs",
     "block.minecraft.polished_blackstone_wall": "Polished Blackstone Wall",
     "block.minecraft.polished_blackstone": "Polished Blackstone",
+    "block.minecraft.stripped_bamboo_block": "Stripped Bamboo Log",
     "block.minecraft.stripped_crimson_hyphae": "Stripped Crimson Wood",
     "block.minecraft.stripped_crimson_stem": "Stripped Crimson Log",
     "block.minecraft.stripped_warped_hyphae": "Stripped Warped Wood",
