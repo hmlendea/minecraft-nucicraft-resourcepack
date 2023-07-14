@@ -19,6 +19,8 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Ashless Campfires _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Separated Double Slabs _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Textures
+        - Animations
+            - Candles _([by Mexorax](https://planetminecraft.com/texture-pack/animated-candles))_
         - Tweaks
             - Borderless Coloured and Tinted Glass _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Centered Chiseled Stone Bricks
