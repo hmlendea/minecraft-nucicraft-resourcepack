@@ -61,6 +61,7 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Invisible armour pieces
         - Splash Bottle o' Enchanting _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Names
+        - Renamed _Axe_ to _Hatchet_
         - Renamed _Cookie_ to _Biscuit_
         - Renamed _Glistering Melon Slice_ to _Golden Melon Slice_
         - Renamed _Mangrove Propagule_ to _Mangrove Sapling_
