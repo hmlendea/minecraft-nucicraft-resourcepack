@@ -77,6 +77,7 @@ Minecraft resourcepack fot the NuciCraft personal server
         - 3D Models
             - Cactus _([by Technodono](https://planetminecraft.com/texture-pack/3d-cactus-4425631))_
             - Crops _(Beetroots and Carrots [by Ensis](https://planetminecraft.com/texture-pack/better-crops-3d-16x); Melon, Potatoes, Pumpkin and Sweet Berry Bush [by Vexcenot](https://curseforge.com/minecraft/texture-packs/crops-3d-revamped))_
+            - Flowers _([by Hecco](https://planetminecraft.com/texture-pack/flamboyant-flowers-the-new-3d-flowers))_
             - Glow Lichen _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Mushrooms v1.2 _(Brown Mushroom, Crimson Fungus, Red Mushroom, Warped Fungus [by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-mushrooms); Nether Warts [by Vexcenot](https://www.curseforge.com/minecraft/texture-packs/crops-3d-revamped))_
             - Shield HD Banner Pattern _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
