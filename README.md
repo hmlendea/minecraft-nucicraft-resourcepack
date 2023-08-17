@@ -58,7 +58,7 @@ Minecraft resourcepack fot the NuciCraft personal server
     - Textures
         - Brown Leather _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Diminishing Tools _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
-        - Invisible armour pieces
+        - Invisible armour pieces _(except Leather)_
         - Splash Bottle o' Enchanting _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Names
         - Renamed _Axe_ to _Hatchet_
