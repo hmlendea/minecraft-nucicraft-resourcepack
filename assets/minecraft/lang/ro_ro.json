@@ -65,6 +65,7 @@
     "block.minecraft.warped_fungus": "Puiet de Ciupercă Deformată",
     "container.enchant.lapis.many": "%s Lapis Lazuli",
     "container.enchant.lapis.one": "1 Lapis Lazuli",
+    "container.stonecutter": "Tăietor de Blocuri",
     "enchantment.minecraft.feather_falling": "Cădere Ușoară",
     "enchantment.minecraft.fire_aspect": "Aspect de Foc",
     "enchantment.minecraft.piercing": "Perforare",
@@ -107,7 +108,7 @@
     "item.minecraft.tipped_arrow.effect.awkward": "Săgeată Impregnată",
     "item.minecraft.tipped_arrow.effect.fire_resistance": "Săgeată de Rezistență la Foc",
     "item.minecraft.tipped_arrow.effect.harming": "Săgeată Vătămătoare",
-    "item.minecraft.tipped_arrow.effect.healing": "Săgeată Vindecătoare",
+    "item.minecraft.tipped_arrow.effect.healing": "Săgeată Vindblocecătoare",
     "item.minecraft.tipped_arrow.effect.invisibility": "Săgeată de Invizibilitate",
     "item.minecraft.tipped_arrow.effect.leaping": "Săgeată de Sărit",
     "item.minecraft.tipped_arrow.effect.levitation": "Săgeată de Levitare",
@@ -126,6 +127,7 @@
     "item.minecraft.tipped_arrow.effect.water": "Săgeată de Stropire",
     "item.minecraft.tipped_arrow.effect.weakness": "Săgeată de Slăbiciune",
     "item.minecraft.vex_spawn_egg": "Ou generator de Spirit de Puradel",
+    "stat.minecraft.interact_with_stonecutter": "Interacțiuni cu Tăietorul de Blocuri",
     "subtitles.entity.evoker.ambient": "Zâganul Șaman murmurează",
     "subtitles.entity.evoker.cast_spell": "Zâganul Șaman rostește o vrajă",
     "subtitles.entity.evoker.celebrate": "Zâganul Șaman se bucură",
@@ -144,5 +146,7 @@
     "subtitles.entity.pillager.ambient": "Zâganul murmurează",
     "subtitles.entity.pillager.celebrate": "Zâganul se bucură",
     "subtitles.entity.pillager.death": "Zâganul moare",
-    "subtitles.entity.pillager.hurt": "Zâganul este rănit"
+    "subtitles.entity.pillager.hurt": "Zâganul este rănit",
+    "subtitles.ui.stonecutter.take_result": "Tăietorul de Blocuri a fost folosit"
+
 }
