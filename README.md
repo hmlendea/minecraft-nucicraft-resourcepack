@@ -48,6 +48,7 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Renamed Crimson and Warped items from fungi to wood
         - Renamed _Deepslate * Ore_ to _Deep * Ore_
         - Renamed _Magma Block_ to _Magma_
+        - Renamed _Stonecutter_ to _Block Cutter_
         - Renamed various blocks, for the Romanian language
 - Items
     - 3D Models

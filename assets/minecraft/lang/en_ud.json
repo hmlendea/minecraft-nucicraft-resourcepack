@@ -39,6 +39,7 @@
     "block.minecraft.warped_fungus": "Warped Sapling",
     "block.minecraft.warped_hyphae": "Warped Wood",
     "block.minecraft.warped_stem": "Warped Log",
+    "container.stonecutter": "Block Cutter",
     "entity.minecraft.evoker_fangs": "Evoker Fangs",
     "entity.minecraft.evoker": "Evoker",
     "entity.minecraft.illusioner": "Illusioner",
@@ -55,6 +56,7 @@
     "item.minecraft.stone_axe": "Stone Hatchet",
     "item.minecraft.vex_spawn_egg": "Childling Spirit Spawn Egg",
     "item.minecraft.wooden_axe": "Wooden Hatchet",
+    "stat.minecraft.interact_with_stonecutter": "Interactions with Block Cutter",
     "subtitles.entity.evoker.ambient": "Zaganian Shaman murmurs",
     "subtitles.entity.evoker.cast_spell": "Zaganian Shaman casts spell",
     "subtitles.entity.evoker.celebrate": "Zaganian Shaman cheers",
@@ -73,5 +75,6 @@
     "subtitles.entity.pillager.ambient": "Zaganian murmurs",
     "subtitles.entity.pillager.celebrate": "Zaganian cheers",
     "subtitles.entity.pillager.death": "Zaganian dies",
-    "subtitles.entity.pillager.hurt": "Zaganian hurts"
+    "subtitles.entity.pillager.hurt": "Zaganian hurts",
+    "subtitles.ui.stonecutter.take_result": "Block Cutter used"
 }
