@@ -13,7 +13,8 @@
       { "model": "block/diamond_ore/block/9" },
       { "model": "block/diamond_ore/block/10" },
       { "model": "block/diamond_ore/block/11" },
-      { "model": "block/diamond_ore/block/12" }
+      { "model": "block/diamond_ore/block/12" },
+      { "model": "block/diamond_ore/block/50" }
     ]
   }
 }
