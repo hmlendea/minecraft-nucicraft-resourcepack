@@ -74,6 +74,8 @@ Minecraft resourcepack fot the NuciCraft personal server
     - Variations
         - Dyes _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
 - Mobs
+    - Textures
+        - Iron Golem with Red Flowers _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Names
         - Renamed _Camel_ to _Dromedary_
         - Renamed _illagers_ to _[zaganians](https://micronations.wiki/wiki/Zaganians)_
