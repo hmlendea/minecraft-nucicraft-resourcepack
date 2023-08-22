@@ -69,6 +69,7 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Renamed _Mangrove Propagule_ to _Mangrove Sapling_
         - Renamed various items, for the Romanian language
     - Replacements
+        - Custom Goat Horns
         - Fried Potatoes instead of Baked Potato
     - Variations
         - Dyes _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
