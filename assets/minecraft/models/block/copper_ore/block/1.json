@@ -1,0 +1,7 @@
+{
+	"parent":"block/cube_all",
+	"textures":
+	{
+		"all":"block/variated/copper_ore/1"
+	}
+}
