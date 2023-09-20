@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      { "model": "block/copper_ore/block/0" },
+      { "model": "block/copper_ore/block/1" },
+      { "model": "block/copper_ore/block/2" },
+      { "model": "block/copper_ore/block/3" },
+      { "model": "block/copper_ore/block/4" },
+      { "model": "block/copper_ore/block/5" },
+      { "model": "block/copper_ore/block/6" },
+      { "model": "block/copper_ore/block/7" },
+      { "model": "block/copper_ore/block/8" },
+      { "model": "block/copper_ore/block/9" },
+      { "model": "block/copper_ore/block/10" },
+      { "model": "block/copper_ore/block/11" },
+      { "model": "block/copper_ore/block/12" },
+      { "model": "block/copper_ore/block/50" }
+    ]
+  }
+}
