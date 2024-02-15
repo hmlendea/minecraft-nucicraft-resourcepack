@@ -58,6 +58,7 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Trims _([by ZzartySt](https://curseforge.com/minecraft/texture-packs/trims-3d))_
         - Various _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Textures
+        - 32x Textures for some common items _([from Vanilla Faithful 32x RP](https://github.com/Faithful-Resource-Pack/Faithful-Java-32x))_
         - Brown Leather _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Diminishing Tools _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Invisible armour pieces _(except Leather)_
