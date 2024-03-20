@@ -24,6 +24,7 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Crying Obsidian _([by PixalThePixeled](https://planetminecraft.com/texture-pack/animated-crying-obsidian))_
         - Tweaks
             - Borderless Coloured and Tinted Glass _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+            - Brighter Nether Bricks
             - Centered Chiseled Stone Bricks
             - Directional Dispensers, Droppers, Hoppers and Observers _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Fancier Fences _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
