@@ -64,6 +64,7 @@ Minecraft resourcepack fot the NuciCraft personal server
         - 32x Textures for some common items _([from Vanilla Faithful 32x RP](https://github.com/Faithful-Resource-Pack/Faithful-Java-32x))_
         - Brown Leather _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Invisible armour pieces _(except Leather)_
+        - Shield HD Banner Pattern _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Splash Bottle o' Enchanting _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Vertical Nuggets _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Names
@@ -93,7 +94,7 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Flowers _([by Hecco](https://planetminecraft.com/texture-pack/flamboyant-flowers-the-new-3d-flowers))_
             - Glow Lichen _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Mushrooms v1.2 _(Brown Mushroom, Crimson Fungus, Red Mushroom, Warped Fungus [by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-mushrooms); Nether Warts [by Vexcenot](https://www.curseforge.com/minecraft/texture-packs/crops-3d-revamped))_
-            - Shield HD Banner Pattern _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+            - Sculk Vein _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Sugar Cane v1.1 _([by MCjossic](https://curseforge.com/minecraft/texture-packs/three-dimensional-sugar-cane))_
             - Vines _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Tweaks
