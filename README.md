@@ -83,6 +83,9 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Iron Golem with Red Flowers _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Variations
             - Villagers _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+            - Darker Dark Oak Leaves
+    - Fixes
+        - Blaze Feet _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Names
         - Renamed _Camel_ to _Dromedary_
         - Renamed _illagers_ to _[zaganians](https://micronations.wiki/wiki/Zaganians)_
@@ -100,13 +103,14 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Tweaks
             - Bushy Leaves _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Darker Dark Oak Leaves
+    - Fixes
+        - Cloud Fog Fix _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Others
         - 3D Breaking Animation _([by DartCat25](https://github.com/DartCat25/resourcepacks/tree/main/3d-breaking))_
         - 3D Redstone Dust _([by DudeAbide](https://planetminecraft.com/texture-pack/3d-clean-redstone-dust))_
         - 3D Sun and Moon _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Brighter Water Colour
         - Colourful Enchanting Table Particles _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
-        - Cloud Fog Fix _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Twinkling Stars _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Unobtrusive Rain and Snow _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
 - Textures for custom datapack items
