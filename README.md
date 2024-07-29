@@ -33,6 +33,7 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Improved Prismarine Bricks _([by PatchWolf](https://modrinth.com/resourcepack/improved-prismarine-bricks!))_
             - Invisible Tripwire
             - Sticky Piston sides _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+            - Suspicious Sand and Gravel _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Unlit Redstone Ore _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Variations
             - Birch Log _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
