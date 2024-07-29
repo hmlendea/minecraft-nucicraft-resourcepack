@@ -119,6 +119,7 @@ Minecraft resourcepack fot the NuciCraft personal server
     - [magic-compass](https://github.com/hmlendea/mc-datapack-magic_compass)
 - GUI
     - Coloured Ping Bars _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+    - Cooked Porkchop Hunger Bar _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - HD Font
     - Lower Shield when held _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Numbered Hotbar _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
