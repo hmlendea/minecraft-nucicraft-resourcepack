@@ -106,6 +106,7 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Tweaks
             - Bushy Leaves _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Darker Dark Oak Leaves
+            - Moss Carpet Overhang _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Visual Sapling Growth _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Fixes
         - Cloud Fog Fix _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
