@@ -58,6 +58,7 @@ Minecraft resourcepack fot the NuciCraft personal server
     - 3D Models
         - Buckets _([by Ivango](https://planetminecraft.com/texture-pack/3d-bucket))_
         - Goat Horn _([by JMHMirror](https://planetminecraft.com/texture-pack/3d-goat-horn))_
+        - Mace _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Torches and Lanterns v1.3.4 _([by D_Dimensional](https://planetminecraft.com/texture-pack/3d-hand-torch))_
         - Trims _([by ZzartySt](https://curseforge.com/minecraft/texture-packs/trims-3d))_
         - Various _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
