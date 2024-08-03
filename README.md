@@ -32,6 +32,7 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Polished Andesite recoloured to better fit Stone Bricks
             - Improved Prismarine Bricks _([by PatchWolf](https://modrinth.com/resourcepack/improved-prismarine-bricks!))_
             - Invisible Tripwire
+            - Smoother Diorite
             - Sticky Piston sides _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Suspicious Sand and Gravel _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Unlit Redstone Ore _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
