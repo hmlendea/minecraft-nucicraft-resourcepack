@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "block/soul_torch",
 		"1": "block/soul_flame",
-		"particle": "block/soul_torch"
+		"particle": "block/torch_particle"
 	},
 	"elements": [
 		{
@@ -60,7 +60,6 @@
 			}
 		}
 	],
-	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"translation": [0, 5, 1.25]
@@ -77,12 +76,11 @@
 			"translation": [1.5, 4.75, 0]
 		},
 		"ground": {
-			"translation": [0, 4.5, 0],
-			"scale": [0.75, 0.75, 0.75]
+			"translation": [0, 4.5, 0]
 		},
 		"gui": {
-			"translation": [0, 0.5, 0],
-			"scale": [1.07, 1.07, 1.07]
+			"translation": [0, 1, 0],
+			"scale": [1.12, 1.12, 1.12]
 		},
 		"head": {
 			"translation": [0, 15.25, 0]
@@ -93,11 +91,13 @@
 			"name": "group",
 			"origin": [7, 0, 7],
 			"color": 0,
+			"nbt": "{}",
 			"children": [
 				{
 					"name": "group",
 					"origin": [4, 6, 8],
 					"color": 0,
+					"nbt": "{}",
 					"children": [0, 1]
 				},
 				2,

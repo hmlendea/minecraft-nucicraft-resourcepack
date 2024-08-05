@@ -4,7 +4,7 @@
 	"textures": {
 		"1": "block/redstone_torch",
 		"2": "block/redstone_flame",
-		"particle": "block/redstone_torch"
+		"particle": "block/torch_particle"
 	},
 	"elements": [
 		{
@@ -86,7 +86,6 @@
 			}
 		}
 	],
-	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"translation": [0, 5, 1.25]
@@ -119,11 +118,13 @@
 			"name": "group",
 			"origin": [7, 0, 7],
 			"color": 0,
+			"nbt": "{}",
 			"children": [
 				{
 					"name": "group",
 					"origin": [4, 6, 8],
 					"color": 0,
+					"nbt": "{}",
 					"children": [0, 1, 2, 3]
 				},
 				4,
