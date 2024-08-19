@@ -51,6 +51,7 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Terracotta _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Stone, End Stone, Unpolished Stones _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Names
+        - Renamed Bamboo_ to _Bambus_
         - Renamed Crimson and Warped items from fungi to wood
         - Renamed _Deepslate * Ore_ to _Deep * Ore_
         - Renamed _Glass_ to _Window_
