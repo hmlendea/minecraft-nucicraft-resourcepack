@@ -9,9 +9,12 @@
       {"model": "block/cobblestone/slab/4"},
       {"model": "block/cobblestone/slab/5"},
       {"model": "block/cobblestone/slab/6"},
-      {"model": "block/cobblestone/slab/7"}
+      {"model": "block/cobblestone/slab/7"},
+      {"model": "block/cobblestone/slab/8"},
+      {"model": "block/cobblestone/slab/9"},
+      {"model": "block/cobblestone/slab/10"}
     ],
-	
+
     "type=top": [
       {"model": "block/cobblestone/slab_top/0"},
       {"model": "block/cobblestone/slab_top/1"},
@@ -20,9 +23,12 @@
       {"model": "block/cobblestone/slab_top/4"},
       {"model": "block/cobblestone/slab_top/5"},
       {"model": "block/cobblestone/slab_top/6"},
-      {"model": "block/cobblestone/slab_top/7"}
+      {"model": "block/cobblestone/slab_top/7"},
+      {"model": "block/cobblestone/slab_top/8"},
+      {"model": "block/cobblestone/slab_top/9"},
+      {"model": "block/cobblestone/slab_top/10"}
     ],
-	
+
     "type=double": [
       {"model": "block/cobblestone/block/0"},
       {"model": "block/cobblestone/block/1"},
@@ -31,7 +37,10 @@
       {"model": "block/cobblestone/block/4"},
       {"model": "block/cobblestone/block/5"},
       {"model": "block/cobblestone/block/6"},
-      {"model": "block/cobblestone/block/7"}
+      {"model": "block/cobblestone/block/7"},
+      {"model": "block/cobblestone/block/8"},
+      {"model": "block/cobblestone/block/9"},
+      {"model": "block/cobblestone/block/10"}
     ]
   }
 }
