@@ -76,6 +76,7 @@ Minecraft resourcepack fot the NuciCraft personal server
     - Names
         - Renamed _Axe_ to _Hatchet_
         - Renamed _Cookie_ to _Biscuit_
+        - Renamed _Eye of Ender_ to _Ender Eye_
         - Renamed _Glistering Melon Slice_ to _Golden Melon Slice_
         - Renamed _Glow Berries_ to _Glowberries_
         - Renamed _Mangrove Propagule_ to _Mangrove Sapling_
