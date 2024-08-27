@@ -1,4 +1,6 @@
 {
+  "advancements.adventure.arbalistic.description": "Kill five unique mobs with one musket shot",
+  "advancements.adventure.ol_betsy.description": "Shoot a Musket",
   "advancements.story.follow_ender_eye.description": "Follow an Ender Eye",
   "biome.minecraft.bamboo_jungle": "Bambus Jungle",
   "block.minecraft.attached_melon_stem": "Attached Watermelon Stem",
@@ -189,6 +191,7 @@
   "item.minecraft.bamboo_raft": "Bambus Raft",
   "item.minecraft.camel_spawn_egg": "Dromedary Spawn Egg",
   "item.minecraft.cookie": "Biscuit",
+  "item.minecraft.crossbow": "Musket",
   "item.minecraft.diamond_axe": "Diamond Hatchet",
   "item.minecraft.ender_eye": "Ender Eye",
   "item.minecraft.evoker_spawn_egg": "Zaganian Shaman Spawn Egg",
@@ -238,5 +241,8 @@
   "subtitles.entity.pillager.celebrate": "Zaganian cheers",
   "subtitles.entity.pillager.death": "Zaganian dies",
   "subtitles.entity.pillager.hurt": "Zaganian hurts",
+  "subtitles.item.crossbow.charge": "Musket charges up",
+  "subtitles.item.crossbow.load": "Musket loads",
+  "subtitles.item.crossbow.shoot": "Musket fires",
   "subtitles.ui.stonecutter.take_result": "Block Cutter used"
 }
