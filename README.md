@@ -84,6 +84,7 @@ Minecraft resourcepack fot the NuciCraft personal server
     - Replacements
         - Custom Goat Horns
         - Fried Potatoes instead of Baked Potato
+        - Musket instead of Crossbow _([by PiXeLGaMeS_or_not](https://www.planetminecraft.com/texture-pack/crossbow-as-musket-1-16-5))_
     - Variations
         - Dyes _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
 - Mobs
