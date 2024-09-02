@@ -132,6 +132,7 @@ Minecraft resourcepack fot the NuciCraft personal server
     - Lower Shield when held _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Numbered Hotbar _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Rainbow Experience Bar _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+    - Replaced the English (US) language with Romanian
     - Unobtrusive Enchantment glint _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
 - Sounds
     - Retro Damage Sound (from older Minecraft versions)
