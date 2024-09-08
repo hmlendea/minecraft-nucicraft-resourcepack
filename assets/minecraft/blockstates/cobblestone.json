@@ -33,6 +33,30 @@
       },
       {
         "model": "block/cobblestone/block/10"
+      },
+      {
+        "model": "block/cobblestone/block/oslypsis/0"
+      },
+      {
+        "model": "block/cobblestone/block/oslypsis/1"
+      },
+      {
+        "model": "block/cobblestone/block/oslypsis/2"
+      },
+      {
+        "model": "block/cobblestone/block/oslypsis/3"
+      },
+      {
+        "model": "block/cobblestone/block/oslypsis/4"
+      },
+      {
+        "model": "block/cobblestone/block/oslypsis/5"
+      },
+      {
+        "model": "block/cobblestone/block/oslypsis/6"
+      },
+      {
+        "model": "block/cobblestone/block/oslypsis/7"
       }
     ]
   }
