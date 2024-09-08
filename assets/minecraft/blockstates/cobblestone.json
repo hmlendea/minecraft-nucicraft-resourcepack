@@ -24,6 +24,15 @@
       },
       {
         "model": "block/cobblestone/block/7"
+      },
+      {
+        "model": "block/cobblestone/block/8"
+      },
+      {
+        "model": "block/cobblestone/block/9"
+      },
+      {
+        "model": "block/cobblestone/block/10"
       }
     ]
   }

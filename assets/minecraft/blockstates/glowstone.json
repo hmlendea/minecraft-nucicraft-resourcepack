@@ -1,0 +1,39 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/glowstone/0"
+      },
+      {
+        "model": "block/glowstone/1"
+      },
+      {
+        "model": "block/glowstone/2"
+      },
+      {
+        "model": "block/glowstone/3"
+      },
+      {
+        "model": "block/glowstone/4"
+      },
+      {
+        "model": "block/glowstone/5"
+      },
+      {
+        "model": "block/glowstone/6"
+      },
+      {
+        "model": "block/glowstone/7"
+      },
+      {
+        "model": "block/glowstone/8"
+      },
+      {
+        "model": "block/glowstone/9"
+      },
+      {
+        "model": "block/glowstone/10"
+      }
+    ]
+  }
+}

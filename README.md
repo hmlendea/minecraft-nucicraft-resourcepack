@@ -41,6 +41,7 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Bricks _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Cobblestone _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Dirt _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+            - Glowstone _([by Amethyst Geode](https://www.planetminecraft.com/texture-pack/glowstone-variations/))_
             - Grass Block _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Gravel _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Planks _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
