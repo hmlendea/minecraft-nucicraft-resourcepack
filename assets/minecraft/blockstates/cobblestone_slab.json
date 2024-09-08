@@ -12,7 +12,15 @@
       {"model": "block/cobblestone/slab/7"},
       {"model": "block/cobblestone/slab/8"},
       {"model": "block/cobblestone/slab/9"},
-      {"model": "block/cobblestone/slab/10"}
+      {"model": "block/cobblestone/slab/10"},
+      {"model": "block/cobblestone/slab/oslypsis/0"},
+      {"model": "block/cobblestone/slab/oslypsis/1"},
+      {"model": "block/cobblestone/slab/oslypsis/2"},
+      {"model": "block/cobblestone/slab/oslypsis/3"},
+      {"model": "block/cobblestone/slab/oslypsis/4"},
+      {"model": "block/cobblestone/slab/oslypsis/5"},
+      {"model": "block/cobblestone/slab/oslypsis/6"},
+      {"model": "block/cobblestone/slab/oslypsis/7"}
     ],
 
     "type=top": [
@@ -26,7 +34,15 @@
       {"model": "block/cobblestone/slab_top/7"},
       {"model": "block/cobblestone/slab_top/8"},
       {"model": "block/cobblestone/slab_top/9"},
-      {"model": "block/cobblestone/slab_top/10"}
+      {"model": "block/cobblestone/slab_top/10"},
+      {"model": "block/cobblestone/slab_top/oslypsis/0"},
+      {"model": "block/cobblestone/slab_top/oslypsis/1"},
+      {"model": "block/cobblestone/slab_top/oslypsis/2"},
+      {"model": "block/cobblestone/slab_top/oslypsis/3"},
+      {"model": "block/cobblestone/slab_top/oslypsis/4"},
+      {"model": "block/cobblestone/slab_top/oslypsis/5"},
+      {"model": "block/cobblestone/slab_top/oslypsis/6"},
+      {"model": "block/cobblestone/slab_top/oslypsis/7"}
     ],
 
     "type=double": [
@@ -40,7 +56,15 @@
       {"model": "block/cobblestone/block/7"},
       {"model": "block/cobblestone/block/8"},
       {"model": "block/cobblestone/block/9"},
-      {"model": "block/cobblestone/block/10"}
+      {"model": "block/cobblestone/block/10"},
+      {"model": "block/cobblestone/block/oslypsis/0"},
+      {"model": "block/cobblestone/block/oslypsis/1"},
+      {"model": "block/cobblestone/block/oslypsis/2"},
+      {"model": "block/cobblestone/block/oslypsis/3"},
+      {"model": "block/cobblestone/block/oslypsis/4"},
+      {"model": "block/cobblestone/block/oslypsis/5"},
+      {"model": "block/cobblestone/block/oslypsis/6"},
+      {"model": "block/cobblestone/block/oslypsis/7"}
     ]
   }
 }
