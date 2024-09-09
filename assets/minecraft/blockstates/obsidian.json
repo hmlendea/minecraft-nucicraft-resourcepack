@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/obsidian/block/0"
+      },
+      {
+        "model": "block/obsidian/block/1"
+      },
+      {
+        "model": "block/obsidian/block/2"
+      },
+      {
+        "model": "block/obsidian/block/3"
+      },
+      {
+        "model": "block/obsidian/block/4"
+      },
+      {
+        "model": "block/obsidian/block/5"
+      }
+    ]
+  }
+}
