@@ -41,12 +41,13 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Bricks _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Cobblestone _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_ & _([by Oslypsis](https://modrinth.com/resourcepack/os-colorful-cobblestone))_
             - Dirt _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
-            - Glowstone _([by Amethyst Geode](https://www.planetminecraft.com/texture-pack/glowstone-variations/))_
+            - Glowstone _([by Amethyst Geode](https://planetminecraft.com/texture-pack/glowstone-variations/))_
             - Grass Block _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Gravel _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Planks _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Red Mushroom _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Moss _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+            - Obsidian _([by Relidium](https://planetminecraft.com/texture-pack/variated-obsidian-v2/))_
             - Ore: Coal _(Stone)_, Copper _(Stone)_, Diamond _(Stone)_, Emerald _(Stone)_, Gold _(Nether, Stone)_, Iron _(Stone)_, Quartz _(Nether)_, Lapis _(Stone)_
             - Terracotta _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Stone, End Stone, Unpolished Stones _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
@@ -85,7 +86,7 @@ Minecraft resourcepack fot the NuciCraft personal server
     - Replacements
         - Custom Goat Horns
         - Fried Potatoes instead of Baked Potato
-        - Musket instead of Crossbow _([by PiXeLGaMeS_or_not](https://www.planetminecraft.com/texture-pack/crossbow-as-musket-1-16-5))_
+        - Musket instead of Crossbow _([by PiXeLGaMeS_or_not](https://planetminecraft.com/texture-pack/crossbow-as-musket-1-16-5))_
     - Variations
         - Dyes _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
 - Mobs
