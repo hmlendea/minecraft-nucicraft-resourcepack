@@ -139,4 +139,4 @@ Minecraft resourcepack fot the NuciCraft personal server
 - Sounds
     - Retro Damage Sound (from older Minecraft versions)
 - Performance
-    - Optimised Models v1.1 _([by Luracasmus](https://planetminecraft.com/texture-pack/modelculling))_
+    - Optimised Models v1.5.1 _([from Luracasmus](https://modrinth.com/resourcepack/optimized-models-lura))_
