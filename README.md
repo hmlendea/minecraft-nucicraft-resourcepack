@@ -38,7 +38,7 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Unlit Redstone Ore _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Variations
             - Birch Log _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
-            - Bricks _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+            - Bricks _([by Infina](https://planetminecraft.com/texture-pack/infina-s-variated-bricks/)) and [from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Cobblestone _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_ & _([by Oslypsis](https://modrinth.com/resourcepack/os-colorful-cobblestone))_
             - Dirt _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Glowstone _([by Amethyst Geode](https://planetminecraft.com/texture-pack/glowstone-variations/))_

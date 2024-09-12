@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "top": "block/variated/bricks/infina/3",
+    "side": "block/variated/bricks/infina/3",
+    "bottom": "block/variated/bricks/infina/3"
+  }
+}

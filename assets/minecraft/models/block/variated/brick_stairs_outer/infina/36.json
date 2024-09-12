@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "top": "block/variated/bricks/infina/36",
+    "side": "block/variated/bricks/infina/36",
+    "bottom": "block/variated/bricks/infina/36"
+  }
+}
