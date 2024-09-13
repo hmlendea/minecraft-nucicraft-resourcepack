@@ -53,6 +53,8 @@ Minecraft resourcepack fot the NuciCraft personal server
             - Stone, End Stone, Unpolished Stones _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Names
         - Renamed _Bamboo_ to _Bambus_
+        - Renamed _Cherry_ to _Sakura_
+        - Renamed _Concrete_ to _Cement_
         - Renamed Crimson and Warped items from fungi to wood
         - Renamed _Deepslate * Ore_ to _Deep * Ore_
         - Renamed _Glass_ to _Window_
