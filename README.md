@@ -103,6 +103,9 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Renamed _Camel_ to _Dromedary_
         - Renamed _illagers_ to _[zaganians](https://micronations.wiki/wiki/Zaganians)_
 - Environment
+    - Biomes
+      - Tweaks
+        - Golden Savanna _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Plants
         - 3D Models
             - Crops _(Beetroots and Carrots [by Ensis](https://planetminecraft.com/texture-pack/better-crops-3d-16x); Melon, Potatoes, Pumpkin and Sweet Berry Bush [by Vexcenot](https://curseforge.com/minecraft/texture-packs/crops-3d-revamped))_
