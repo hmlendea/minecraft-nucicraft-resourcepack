@@ -22,6 +22,8 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Animations
             - Candles _([by Mexorax](https://planetminecraft.com/texture-pack/animated-candles))_
             - Crying Obsidian _([by PixalThePixeled](https://planetminecraft.com/texture-pack/animated-crying-obsidian))_
+        - Replacements
+            - Bedrock _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Tweaks
             - Borderless Coloured and Tinted Glass _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
             - Brighter Nether Bricks
