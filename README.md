@@ -72,6 +72,8 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Torches and Lanterns v1.3.4 _([by D_Dimensional](https://planetminecraft.com/texture-pack/3d-hand-torch))_
         - Trims _([by ZzartySt](https://curseforge.com/minecraft/texture-packs/trims-3d))_
         - Various _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+    - Replacements
+        - Replaced `Golden Helmet` with `Golden Crown` _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Textures
         - 32x Textures for some common items _([from Vanilla Faithful 32x RP](https://github.com/Faithful-Resource-Pack/Faithful-Java-32x))_
         - Brown Leather _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
