@@ -77,7 +77,7 @@ Minecraft resourcepack fot the NuciCraft personal server
     - Textures
         - 32x Textures for some common items _([from Vanilla Faithful 32x RP](https://github.com/Faithful-Resource-Pack/Faithful-Java-32x))_
         - Brown Leather _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
-        - Invisible armour pieces _(for Diamond and Netherite)_
+        - Invisible armour pieces _(for Netherite)_
         - Shield HD Banner Pattern _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Splash Bottle o' Enchanting _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
         - Vertical Nuggets _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
