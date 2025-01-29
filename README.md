@@ -83,6 +83,7 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Vertical Nuggets _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
     - Names
         - Renamed _Axe_ to _Hatchet_
+        - Renamed _Book and Quill_ to _Writable Book_
         - Renamed _Cookie_ to _Biscuit_
         - Renamed _Eye of Ender_ to _Ender Eye_
         - Renamed _Glistering Melon Slice_ to _Golden Melon Slice_
