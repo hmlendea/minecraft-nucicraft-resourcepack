@@ -108,6 +108,7 @@ Minecraft resourcepack fot the NuciCraft personal server
         - Renamed _Camel_ to _Dromedary_
         - Renamed _illagers_ to _[zaganians](https://micronations.wiki/wiki/Zaganians)_
         - Renamed _Wandering Trader_ to _Travelling Merchant_
+        - Renamed _Zombified Piglin_ to _Zombie Pigman_
 - Environment
     - Biomes
       - Tweaks
