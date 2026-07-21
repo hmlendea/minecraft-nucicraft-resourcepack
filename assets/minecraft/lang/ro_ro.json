@@ -287,6 +287,7 @@
   "block.minecraft.orange_bed": "Pat Oranj",
   "block.minecraft.orange_candle": "Lumânare Oranj",
   "block.minecraft.orange_carpet": "Covor Oranj",
+  "block.minecraft.orange_concrete": "Ciment Oranj",
   "block.minecraft.orange_glazed_terracotta": "Teracotă Smălțuită Oranj",
   "block.minecraft.orange_stained_glass_pane": "Geam Oranj",
   "block.minecraft.orange_stained_glass": "Sticlă Oranj",
@@ -330,6 +331,7 @@
   "block.minecraft.polished_granite_stairs": "Scări de Granit Șlefuit",
   "block.minecraft.polished_granite": "Granit Șlefuit",
   "block.minecraft.poppy": "Mac",
+  "block.minecraft.potted_bamboo": "Bambus în Ghievci",
   "block.minecraft.purple_carpet": "Covor Purpuriu",
   "block.minecraft.purple_concrete_powder": "Praf de Ciment Purpuriu",
   "block.minecraft.purple_concrete": "Ciment Purpuriu",
@@ -532,6 +534,7 @@
   "entity.minecraft.wandering_trader": "Negustor Călător",
   "entity.minecraft.witch": "Cotoroanță",
   "entity.minecraft.wolf": "Lup",
+  "entity.minecraft.zombified_piglin": "Piglin Zombie",
   "event.minecraft.raid.victory": "Victorie",
   "flat_world_preset.minecraft.desert": "Deșert",
   "gameMode.adventure": "Modul de Aventură",
@@ -704,6 +707,7 @@
   "item.minecraft.wooden_axe": "Topor de Lemn",
   "item.minecraft.wooden_pickaxe": "Târnăcop de Lemn",
   "item.minecraft.wooden_sword": "Sabie de Lemn",
+  "item.minecraft.writable_book": "Carte de Scris",
   "item.minecraft.yellow_dye": "Vopsea Galbenă",
   "language.name": "Romanian",
   "language.region": "NuciCraft",
@@ -751,5 +755,5 @@
   "subtitles.item.crossbow.charge": "Muscheta se pregătește",
   "subtitles.item.crossbow.load": "Muscheta se încarcă",
   "subtitles.item.crossbow.shoot": "Musket trage",
-  "subtitles.ui.stonecutter.take_result": "Tăietorul de Blocuri a fost folosit"
+  "subtitles.ui.stonecutter.take_result": "Tăietorul de Blocuri a fost utilizat"
 }
