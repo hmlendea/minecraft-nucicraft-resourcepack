@@ -1,0 +1,17 @@
+{
+    "en_ud": {
+        "name": "English",
+        "region": "NuciCraft",
+        "bidirectional": false
+    },
+    "en_us": {
+        "name": "Romanian",
+        "region": "NuciCraft",
+        "bidirectional": false
+    },
+    "ro_ro": {
+        "name": "Romanian",
+        "region": "NuciCraft",
+        "bidirectional": false
+    }
+}
