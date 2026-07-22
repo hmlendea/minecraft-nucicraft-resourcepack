@@ -1,20 +1,22 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made by Ecorn",
 	"textures": {
-		"0": "block/jungle_door_bottom",
+		"1": "block/jungle_door_side",
+		"2": "block/jungle_door_bottom",
 		"particle": "block/jungle_door_bottom"
 	},
 	"elements": [
 		{
 			"from": [0, 0, 0],
 			"to": [3, 16, 16],
-			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [1.5, 11.5, 8]},
 			"faces": {
-				"north": {"uv": [3, 0, 0, 16], "texture": "#0"},
-				"east": {"uv": [16, 0, 0, 16], "texture": "#0"},
-				"south": {"uv": [1, 0, 4, 16], "texture": "#0"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"down": {"uv": [0, 13, 16, 16], "rotation": 90, "texture": "#0"}
+				"north": {"uv": [3, 0, 0, 16], "texture": "#1"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#2"},
+				"south": {"uv": [6, 0, 9, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"down": {"uv": [6, 0, 9, 16], "rotation": 180, "texture": "#1"}
 			}
 		}
 	]
