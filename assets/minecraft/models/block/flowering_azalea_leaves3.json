@@ -1,8 +1,9 @@
 {
     "parent": "block/leaves3_notint",
     "textures": {
-        "all": "block/flowering_azalea_leaves",
+        "all": "block/flowering_azalea_leaves_wavy",
 		"bush": "block/flowering_azalea_leaves_bush1",
-		"dark_bush": "block/flowering_azalea_leaves_bush1_dark"
+		"dark_bush": "block/flowering_azalea_leaves_bush1_dark",
+		"particle": "block/flowering_azalea_leaves"
     }
 }
