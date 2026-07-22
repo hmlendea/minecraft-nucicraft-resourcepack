@@ -1,8 +1,22 @@
-# About
+[![Donate](https://img.shields.io/badge/-%E2%99%A5%20Donate-%23ff69b4)](https://hmlendea.go.ro/funding)
+[![Latest Release](https://img.shields.io/github/v/release/hmlendea/minecraft-nucicraft-resourcepack)](https://github.com/hmlendea/minecraft-nucicraft-resourcepack/releases/latest)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://gnu.org/licenses/gpl-3.0)
 
-Minecraft resourcepack fot the NuciCraft personal server
+# NuciCraft Resource Pack
 
-# Features
+A Minecraft Java Edition resource pack for the NuciCraft private server, combining custom 3D block and item models, texture tweaks, variations, renamed elements, and performance optimisations, drawing from a curated selection of community packs alongside original additions.
+
+## 📑 Table of Contents
+
+- [Features](#-features)
+- [Usage](#-usage)
+- [Installation](#-installation)
+- [Contributing](#-contributing)
+- [Related Projects](#-related-projects)
+- [Support](#-support)
+- [License](#-license)
+
+## ✨ Features
 
 - Blocks
     - Models
@@ -152,3 +166,36 @@ Minecraft resourcepack fot the NuciCraft personal server
     - Retro Damage Sound (from older Minecraft versions)
 - Performance
     - Optimised Models v1.5.1 _([from Luracasmus](https://modrinth.com/resourcepack/optimized-models-lura))_
+
+## 🚀 Usage
+
+Copy the downloaded `.zip` file into the Minecraft `resourcepacks` directory (typically `.minecraft/resourcepacks`), then enable it from **Options → Resource Packs** in the game.
+
+## 📦 Installation
+
+[![Obtain it from GitHub](https://raw.githubusercontent.com/hmlendea/readme-assets/master/badges/stores/github.png)](https://github.com/hmlendea/minecraft-nucicraft-resourcepack/releases)
+
+## 🤝 Contributing
+
+You are welcome to bring any suggestion, feedback or modification to this project.
+
+When doing so, please:
+- Maintain cross-platform compatibility
+- Maintain the pull requests as focused and consistent with the existing code style
+
+## 🔗 Related Projects
+
+- [magic-compass](https://github.com/hmlendea/mc-datapack-magic_compass): A custom datapack for which this resource pack provides textures.
+
+## 💝 Support
+
+Discovered a bug or have a suggestion? [Open an issue](https://github.com/hmlendea/minecraft-nucicraft-resourcepack/issues)!
+
+If you find this project useful, consider [funding it](https://hmlendea.go.ro/funding) or starring ⭐️ it on GitHub!
+
+[![Donate](https://raw.githubusercontent.com/hmlendea/readme-assets/master/donate_generic.png)](https://hmlendea.go.ro/funding)
+
+## 📄 License
+
+Licensed under the `GNU General Public Licence v3` or later.
+See [LICENSE](./LICENSE) for details.
