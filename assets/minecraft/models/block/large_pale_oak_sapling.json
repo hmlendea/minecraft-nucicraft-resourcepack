@@ -1,0 +1,7 @@
+{
+	"parent": "block/template_large_sapling",
+	"textures": {
+		"texture": "block/large_pale_oak_sapling",
+		"particle": "block/dark_pale_sapling"
+	}
+}
