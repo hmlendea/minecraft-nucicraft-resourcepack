@@ -1,9 +1,10 @@
 {
     "parent": "block/leaves5",
     "textures": {
-        "all": "block/jungle_leaves",
+        "all": "block/jungle_leaves_wavy",
 		"bush": "block/jungle_leaves_bush1",
 		"bush_down": "block/jungle_leaves_bush4",
-		"dark_bush": "block/jungle_leaves_bush1_dark"
+		"dark_bush": "block/jungle_leaves_bush1_dark",
+		"particle": "block/jungle_leaves"
     }
 }

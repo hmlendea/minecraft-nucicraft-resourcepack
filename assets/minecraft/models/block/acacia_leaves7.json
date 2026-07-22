@@ -1,9 +1,10 @@
 {
     "parent": "block/leaves4",
     "textures": {
-        "all": "block/acacia_leaves",
+        "all": "block/acacia_leaves_wavy",
 		"bush": "block/acacia_leaves_bush2",
 		"dark_bush": "block/acacia_leaves_bush2_dark",
-		"bush_down": "block/acacia_leaves_bush3"
+		"bush_down": "block/acacia_leaves_bush3",
+		"particle": "block/acacia_leaves"
     }
 }
