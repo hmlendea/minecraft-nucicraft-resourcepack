@@ -14,7 +14,7 @@
   "advancements.adventure.adventuring_time.description": "Descoperă fiecare biom",
   "advancements.adventure.adventuring_time.title": "Timp de Aventură",
   "advancements.adventure.arbalistic.description": "Omoară 5 mobi diferiți cu o singură tragere de muschetă",
-  "advancements.adventure.arbalistic.title": "Arbalistică",
+  "advancements.adventure.arbalistic.title": "Mușchetar",
   "advancements.adventure.avoid_vibration.description": "Furișează-te pe lângă un Senzor Sculk sau un Străjer pentru a evita detectarea",
   "advancements.adventure.avoid_vibration.title": "Furișare 100",
   "advancements.adventure.blowback.description": "Elimină un Breeze cu o Încărcătură de Vânt deviată, trasă de un Breeze",
@@ -854,6 +854,6 @@
   "subtitles.item.bucket.fill": "Găleata se umple",
   "subtitles.item.crossbow.charge": "Muscheta se pregătește",
   "subtitles.item.crossbow.load": "Muscheta se încarcă",
-  "subtitles.item.crossbow.shoot": "Musket trage",
+  "subtitles.item.crossbow.shoot": "Muscheta trage",
   "subtitles.ui.stonecutter.take_result": "Tăietorul de Blocuri a fost utilizat"
 }
