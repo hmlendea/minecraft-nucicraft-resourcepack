@@ -103,6 +103,7 @@ A Minecraft Java Edition resource pack for the NuciCraft private server, combini
         - Renamed _Glistering Melon Slice_ to _Golden Melon Slice_
         - Renamed _Glow Berries_ to _Glowberries_
         - Renamed _Mangrove Propagule_ to _Mangrove Sapling_
+        - Renamed _Totem of Undying_ to _Totem of Îmhe_
         - Renamed various items, for the Romanian language
     - Replacements
         - Custom Goat Horns
