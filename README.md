@@ -77,6 +77,7 @@ A Minecraft Java Edition resource pack for the NuciCraft private server, combini
         - Renamed _Magma Block_ to _Magma_
         - Renamed _Melon_ to _Watermelon_
         - Renamed _Stonecutter_ to _Block Cutter_
+        - Renamed _Sulfur_ ro _Sulphur_
         - Renamed various blocks, for the Romanian language
 - Items
     - 3D Models
@@ -103,6 +104,7 @@ A Minecraft Java Edition resource pack for the NuciCraft private server, combini
         - Renamed _Glistering Melon Slice_ to _Golden Melon Slice_
         - Renamed _Glow Berries_ to _Glowberries_
         - Renamed _Mangrove Propagule_ to _Mangrove Sapling_
+        - Renamed _Totem of Undying_ to _Totem of Îmhe_
         - Renamed various items, for the Romanian language
     - Replacements
         - Custom Goat Horns
@@ -127,6 +129,9 @@ A Minecraft Java Edition resource pack for the NuciCraft private server, combini
     - Biomes
       - Tweaks
         - Golden Savanna _([from VanillaTweaks](https://vanillatweaks.net/picker/resource-packs))_
+      - Names
+        - Renamed `Sulfur Caves` to `Sulphur Caves`
+        - Renamed `Swamp` to `Marsh` and `Mangrove Swamp` to `Mangrove Marsh`
     - Plants
         - 3D Models
             - Crops _(Beetroots and Carrots [by Ensis](https://planetminecraft.com/texture-pack/better-crops-3d-16x); Melon, Potatoes, Pumpkin and Sweet Berry Bush [by Vexcenot](https://curseforge.com/minecraft/texture-packs/crops-3d-revamped))_
