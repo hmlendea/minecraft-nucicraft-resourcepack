@@ -212,6 +212,12 @@ If you find this project useful, consider [funding it](https://hmlendea.go.ro/fu
 
 [![Donate](https://raw.githubusercontent.com/hmlendea/readme-assets/master/donate_generic.png)](https://hmlendea.go.ro/funding)
 
+## 🛡️ Privacy and Data
+
+NuciCraft Resource Pack does not collect, process, transmit, or persist user data, analytics, diagnostics, or telemetry.
+
+For the detailed description of how the application handles privacy and personal data, see [PRIVACY.md](./PRIVACY.md).
+
 ## 📄 License
 
 Licensed under the `GNU General Public Licence v3` or later.
