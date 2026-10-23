@@ -11,6 +11,7 @@ A Minecraft Java Edition resource pack for the NuciCraft private server, combini
 - [Features](#-features)
 - [Usage](#-usage)
 - [Installation](#-installation)
+- [Architecture](#-architecture)
 - [Contributing](#-contributing)
 - [Related Projects](#-related-projects)
 - [Support](#-support)
@@ -179,6 +180,12 @@ Copy the downloaded `.zip` file into the Minecraft `resourcepacks` directory (ty
 ## 📦 Installation
 
 [![Obtain it from GitHub](https://raw.githubusercontent.com/hmlendea/readme-assets/master/badges/stores/github.png)](https://github.com/hmlendea/minecraft-nucicraft-resourcepack/releases)
+
+## 🏗️ Architecture
+
+NuciCraft Resource Pack follows a declarative data-driven architecture conforming to the Minecraft resource pack specification.
+
+See the [architecture documentation](./ARCHITECTURE.md) for the system context, principal components, runtime flows, ownership boundaries, dependencies, constraints, and extension points.
 
 ## 🤝 Contributing
 
