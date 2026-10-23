@@ -6,6 +6,7 @@ This document covers the guidelines and processes for contributing to this proje
 
 - [How to Contribute](#-how-to-contribute)
 - [Code of Conduct](#-code-of-conduct)
+- [Security](#-security)
 - [License](#-license)
 
 ## 🤝 How to Contribute
@@ -52,6 +53,10 @@ cd minecraft-nucicraft-resourcepack
 ## 📋 Code of Conduct
 
 This project follows the [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## 🔒 Security
+
+Report security vulnerabilities per the [Security Policy](SECURITY.md).
 
 ## 📄 License
 
