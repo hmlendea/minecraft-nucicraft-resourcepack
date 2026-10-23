@@ -218,6 +218,12 @@ NuciCraft Resource Pack does not collect, process, transmit, or persist user dat
 
 For the detailed description of how the application handles privacy and personal data, see [PRIVACY.md](./PRIVACY.md).
 
+## 🔒 Security
+
+NuciCraft Resource Pack follows a coordinated disclosure policy. Report vulnerabilities via [GitHub Security Advisories](https://github.com/hmlendea/minecraft-nucicraft-resourcepack/security/advisories) or contact the maintainers directly.
+
+See [SECURITY.md](./SECURITY.md) for supported versions, scope, and disclosure policy.
+
 ## 📄 License
 
 Licensed under the `GNU General Public Licence v3` or later.
