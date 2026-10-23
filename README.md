@@ -196,6 +196,10 @@ When doing so, please:
 
 See the [contributing guidelines](./CONTRIBUTING.md) for details on how to report issues, suggest enhancements, and submit changes.
 
+## 📜 Code of Conduct
+
+See the [Code of Conduct](./CODE_OF_CONDUCT.md) for the standards of conduct expected in all project spaces.
+
 ## 🔗 Related Projects
 
 - [magic-compass](https://github.com/hmlendea/mc-datapack-magic_compass): A custom datapack for which this resource pack provides textures.

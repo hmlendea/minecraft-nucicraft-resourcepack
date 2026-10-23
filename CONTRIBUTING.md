@@ -5,6 +5,7 @@ This document covers the guidelines and processes for contributing to this proje
 ## 📑 Table of Contents
 
 - [How to Contribute](#-how-to-contribute)
+- [Code of Conduct](#-code-of-conduct)
 - [License](#-license)
 
 ## 🤝 How to Contribute
@@ -47,6 +48,10 @@ cd minecraft-nucicraft-resourcepack
 - Keep PRs focused and atomic.
 - Revise documentation if applicable.
 - Ensure the CI checks pass.
+
+## 📋 Code of Conduct
+
+This project follows the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## 📄 License
 
