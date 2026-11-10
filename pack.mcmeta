@@ -1,6 +1,7 @@
 {
     "pack": {
-        "pack_format": 107.1,
-        "description": [{"text":"NuciCraft v6.3.4","color":"gold"}]
+        "min_format": 84,
+        "max_format": 999,
+        "description": [{"text":"NuciCraft v6.3.5","color":"gold"}]
     }
 }
