@@ -12,6 +12,7 @@ A Minecraft Java Edition resource pack for the NuciCraft private server, combini
 - [Usage](#-usage)
 - [Installation](#-installation)
 - [Architecture](#-architecture)
+- [Documentation](#-documentation)
 - [Contributing](#-contributing)
 - [Related Projects](#-related-projects)
 - [Support](#-support)
@@ -186,6 +187,38 @@ Copy the downloaded `.zip` file into the Minecraft `resourcepacks` directory (ty
 NuciCraft Resource Pack follows a declarative data-driven architecture conforming to the Minecraft resource pack specification.
 
 See the [architecture documentation](./ARCHITECTURE.md) for the system context, principal components, runtime flows, ownership boundaries, dependencies, constraints, and extension points.
+
+## 📚 Documentation
+
+Comprehensive documentation is available in the [`docs/`](./docs/) directory:
+
+- [Quick Start](./docs/quick-start.md) — Getting started for players, server admins, and developers
+- [Architecture](./docs/architecture.md) — Detailed system architecture
+- [Repository Structure](./docs/repository-structure.md) — Source tree layout and module organisation
+- [Components](./docs/components/) — Per-component deep dives (blockstates, models, textures, atlases, language)
+- [Flows](./docs/flows/) — End-to-end execution flows (pack load, model baking, render frame)
+- [Behaviour](./docs/behaviour/) — User-facing behaviours (variation rendering, custom items)
+- [API Reference](./docs/api-reference/) — Asset schemas and interfaces
+- [API Usage Examples](./docs/api-usage-examples.md) — Practical examples for working with assets
+- [Configuration](./docs/configuration.md) — Configuration schema and sources
+- [Build and Deployment](./docs/build-and-deployment.md) — Build pipeline and release process
+- [Dependencies](./docs/dependencies.md) — External and internal dependencies
+- [Testing](./docs/testing.md) — Test strategy and procedures
+- [Change Guide](./docs/change-guide.md) — How to modify common areas safely
+- [Design Decisions](./docs/design-decisions.md) — Key architectural choices and rationale
+- [Error Handling](./docs/error-handling.md) — Error taxonomy and recovery
+- [Logging](./docs/logging.md) — Logging framework and analysis
+- [Security](./docs/security.md) — Security model and mitigations
+- [State and Persistence](./docs/state-and-persistence.md) — State management
+- [Invariants](./docs/invariants.md) — System-wide invariants and contracts
+- [Concurrency and Scheduling](./docs/concurrency-and-scheduling.md) — Threading and scheduling
+- [Integrations](./docs/integrations.md) — External integrations
+- [Documentation Maintenance](./docs/documentation-maintenance.md) — How to keep docs current
+- [FAQ](./docs/faq.md) — Frequently asked questions
+- [Troubleshooting](./docs/troubleshooting.md) — Common issues and solutions
+- [Ambiguities and Open Questions](./docs/ambiguities-and-open-questions.md) — Unresolved items and known gaps
+- [Quick Start](./docs/quick-start.md) — Getting started guide
+- [Master Index](./docs/INDEX.md) — Complete documentation catalogue and navigation
 
 ## 🤝 Contributing
 
